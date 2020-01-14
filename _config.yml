@@ -11,6 +11,7 @@ github_username:  &github rhbvkleef
 
 markdown: kramdown
 theme: plainwhite
+remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
 
