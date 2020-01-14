@@ -1,0 +1,25 @@
+# vim: ts=2:sts=2:sw=2:et:
+title: &name Rolf van Kleef
+email: rolf@vankleef.me
+description: >-
+  This is my personal blog. I will post my thoughts and rants here, along
+  with other potentially interesting information.
+baseurl: ""
+url: "https://rhbvkleef.github.io"
+twitter_username: &twitter rhbvkleef
+github_username:  &github rhbvkleef
+
+markdown: kramdown
+theme: plainwhite
+plugins:
+  - jekyll-feed
+
+plainwhite:
+  name: *name
+  tagline: Software engineer
+  date_format: "%Y-%m-%d"
+  social_links:
+    twitter: *twitter
+    github: *github
+    linkedIn: in/rolf-van-kleef-721028ba
+
