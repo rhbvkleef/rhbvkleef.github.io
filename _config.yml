@@ -10,7 +10,7 @@ twitter_username: &twitter rhbvkleef
 github_username:  &github rhbvkleef
 
 markdown: kramdown
-theme: plainwhite
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
