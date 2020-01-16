@@ -23,4 +23,13 @@ plainwhite:
     twitter: *twitter
     github: *github
     linkedIn: in/rolf-van-kleef-721028ba
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "Blog"
+      url: "/blog"
+    - title: "Contact"
+      url: "/contact"
+
+show_excerpts: true
 

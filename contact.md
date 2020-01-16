@@ -1,0 +1,46 @@
+---
+layout: page
+title: Contact
+permalink: /contact
+---
+
+# Contact
+
+Please send me an email at [rolf@vankleef.me](mailto:rolf@vankleef.me?subject=Contact%20From%20Website%20).
+If you would like more security, you may use this GPG key:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xsBNBFl4taEBCAC41vc6biIJxsGF1OC4LKSQ0U+99Sx0DsWflPU7q+Z4apVc
+dC3cnvGpvSgYAIzSlNJzPm1c8fKxrtQ7fJ0yoDJsyP9z6hlr4B++uBqLWOFt
+H02mazxADhY9EAtLR3ZaHpebwzgCpqgHAXMpOAOwrgGk+7cMvQ3bJ9fyiswI
+YqNdTL5Fii/zFJlM14hkVhjSNLndcKX47UgfOEcl3i7s7OIZRE+i1lU05XbJ
+WFO8KNqKpcU8Y/9Smal2Rw0LZUIqnsVnV4jt5Hud2ySY3NXdFX7H0xKQAqrh
+Q0guciGKTeY6GuTimssGAUO9Z8FlbzgigLXHQxwreFZvGr3WDfBjoGibABEB
+AAHNIVJvbGYgdmFuIEtsZWVmIDxyb2xmQHZhbmtsZWVmLm1lPsLAjgQTAQgA
+OBYhBKyNBmXMVaLPi3Gl9YdsP/BMp8ScBQJZeLWhAhsDBQsJCAcCBhUICQoL
+AgQWAgMBAh4BAheAAAoJEIdsP/BMp8Sc0EYH/i9XX5+8H7vq7eVg/OVjjckb
+2qz8eLyLcZYvFbOjOORHs4JJpSrcRJtpB3+JSyejJvDFtgifUtSqCgi4CERh
+TuwSRPTPyVv9nYM83Wdr7dH0ywF5GKTiETt9xjD7Gj84sSoDg9X5YkwmB/cg
+70SgxO3zJ4u+EF+Cj7SGQBDvq/ZdytJnKF/pdKRPyg+Awtf14slfyXsgqMr8
+9+X27HNpul29Z12V0LmWcic56FDbGTMa64aEq1NQqefsDfK3HfAxyvKrc6Xs
+LjjHnkaJm2mwo4435GYg1wk9gKRu6L1Dijyuz/d+MYDqUv0bnPpWRUqKcWzz
+lTREZvy8L8i6uVFXJaPOwE0EWXi1oQEIANK81SKSdt16dKcfaa59ki9FoRZk
+VTBMB+Y3+UKWaLTac1NxbLjlq/aHZX47WaeSj6Zsbl3OETmoSDpEIz+kZCLj
+d9U/piBCDqj9jrh5x5ffFWxwB36d08G5wiGUALEFruMDY2kBbGeecmxW0INc
+MBkmvaAdE0y5QWbaUSWfXU3cdajHKjEhqOfOwmACFM9SnkzWcAvWwifHC+Yu
+H44lVGpcz+78+XwVd/n/A2/gWK/sioi1/vqwBkU1y2xyIsN5LNSRs7PufmWz
+t7KDkXKPygmUQk1ImwwsQgbgeNa0ttg810nDpzY8VXXRJES088s/guLB6lNW
+Ty5T0XVwCIFcOMEAEQEAAcLAdgQYAQgAIBYhBKyNBmXMVaLPi3Gl9YdsP/BM
+p8ScBQJZeLWhAhsMAAoJEIdsP/BMp8Scjs8H/i97aWMFA6Lgb0S3LwougJc/
+NBNfEd2DjyD1zmyzzRruaS8q7xVFIGFyMPkxQRMgu7K1LP/RdGuRT1g6u/nx
+oFUddlbIIUvpJxkaAVseH2v78RWChUJMKfL1iasfKQ2rQOsSUDu8kwCeqDMG
+4FBwbsSUD/B6LAqoZHhBu7DRW+WA1Zpk1UCR02WFGMzMBrnMbLsowf+jkZtr
+i26gyZDhvd9SBGOGV955gT8qIJ+P1chsfaeo+FFPfUGcZm2K0YwZD0Kl5Tlx
+murCaWtnONBvUYHWojQGRrI4rTviqITIUzjVQjukDY0h2CyOcPect3VypPn5
+9T+dSBP6YCFjxxb3QDQ=
+=xTtO
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
