@@ -53,7 +53,7 @@ public class BananaEndpointConfigurator extends javax.websocket.server.ServerEnd
              javax.websocket.HandshakeRequest request,
              javax.websocket.HandshakeResponse response) {
          
-         List<String> authHdrs = request.getHeaders().getOrDefault("Authorization", new java.util.ArrayList<>());
+         java.util.List<String> authHdrs = request.getHeaders().getOrDefault("Authorization", new java.util.ArrayList<>());
          
          if (authHdrs.size() == 1) {
              // Authenticate user here
