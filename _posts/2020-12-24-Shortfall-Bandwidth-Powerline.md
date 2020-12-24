@@ -3,8 +3,6 @@ layout: post
 title: Shortfall of Bandwidth with Powerline Ethernet Adaptor
 ---
 
-# Introduction
-
 In [episode 34 of the Self-Hosted podcast][self-hosted-34], one of the hosts
 (Chris) talks about his experiences from using a
 [TP-Link AV1000][av1000-datasheet] powerline adaptor in an RV, on the RV's DC
