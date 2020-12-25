@@ -5,9 +5,9 @@ title: Shortfall of Bandwidth with Powerline Ethernet Adaptor
 
 In [episode 34 of the Self-Hosted podcast][self-hosted-34], one of the hosts
 (Chris) talks about his experiences from using a
-[TP-Link AV1000][av1000-datasheet] powerline adaptor in an RV, on the RV's DC
-power bus, wherein he notes that whilst his adaptors are rated for gigabit
-speeds, he is only able to achieve around 300mbps.
+[TP-Link AV1000][av1000-datasheet] powerline adaptor in an RV, wherein he notes
+that whilst his adaptors are rated for gigabit speeds, he is only able to
+achieve around 300mbps.
 There are a multitude of factors which might impact this performance, and this
 article will explore some of them in an attempt to explain why this shortcoming
 exists, and how it might be mitigated.
@@ -15,8 +15,8 @@ exists, and how it might be mitigated.
 # HomePlug AV2
 
 The adaptor used and linked does indeed appear to advertise supporting gigabit
-speeds, but in actuality, this only refers to the fact that the ethernet plug
-on the adaptors support [IEEE 802.3ab][ieee802.3ab].
+speeds, but in actuality, this only refers to the fact that the ethernet socket
+on the adaptors support 1000Base-T as specified in [IEEE 802.3ab][ieee802.3ab].
 The actual carrier protocol used is [HomePlug AV2][av2] (linking to Wikipedia
 as I cannot access their sources, which would be extremely useful to take away
 the doubt hereafter stated), which appears to be a single-duplex 1300mbps
